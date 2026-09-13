@@ -1,0 +1,5 @@
+- `cover/home-cover-1.png`: https://www.pixiv.net/artworks/142216614
+- `cover/home-cover-2.png`: https://www.pixiv.net/artworks/142216614
+- `cover/home-cover-3.png`: https://www.pixiv.net/artworks/142216614
+- `cover/home-cover-4.jpg`: https://www.pixiv.net/artworks/142216614
+- `cover/home-cover-5.jpg`: https://www.pixiv.net/artworks/142216614
